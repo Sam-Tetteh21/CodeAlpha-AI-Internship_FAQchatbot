@@ -5,7 +5,7 @@ A chat-style FAQ chatbot for university student services, built during my **Code
 Ask it about course registration, exams, fees, IDs, transcripts, and more — it uses NLP techniques to understand your question and match it to the most relevant answer, even if you don't phrase it exactly like the FAQ.
 
 ## 🌍 Live Demo
-👉 [Try it live here](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+👉 [Try it live here](https://codealpha-ai-internshipfaqchatbot.streamlit.app)
 
 ## 🎥 Video Demo
 [LinkedIn video link here]
@@ -90,4 +90,8 @@ This project was built as part of the **CodeAlpha Artificial Intelligence Intern
 - Task: Chatbot for FAQs
 
 ## 👤 Author
-[Your Name] — BSc. Information Technology Education
+**Samuel Tetteh**
+BSc. Information Technology Education, Level 300
+University of Skills Training and Entrepreneurial Development (USTED)
+
+🔗 [LinkedIn](www.linkedin.com/in/samuel-tetteh-b5a247356) · [GitHub](https://github.com/Sam-Tetteh21)
